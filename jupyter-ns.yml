@@ -3,3 +3,7 @@ kind: Namespace
 metadata:
   name: jupyter-ns
   annotations:
+    desc: "Namespace for Jupyter notebook Application"
+    proj: "Jupyter Notebook"
+    owner: "Eduardo Cortez - @duduomena1"
+
